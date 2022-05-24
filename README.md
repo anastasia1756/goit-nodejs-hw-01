@@ -13,11 +13,13 @@
 Добавялем контакт
 ---
  node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22
+ 
  node index.js --action list
 ![](https://monosnap.com/file/koct2XEEEAeOckzwXzE1e4xBPu9xVI.png)
 
 Удаляем контакт
 ---
  node index.js --action remove --id=3
+ 
  node index.js --action list
 ![](https://monosnap.com/file/xqOiKiPOCXUlfjwa73eTRpsCteNoKO.png)
